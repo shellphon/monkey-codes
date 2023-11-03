@@ -1,2 +1,4 @@
 # monkey-codes
-my monkey code for stores
+My monkey code for stores
+
+used on [tampermonkey](https://www.tampermonkey.net/)
